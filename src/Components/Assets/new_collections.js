@@ -59,7 +59,7 @@ let new_collections = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Greenish rhino designed Sweatshirt",
     image: p8_img,
     new_price: 2000,
     old_price: 3199,

@@ -198,7 +198,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "GAP Men Contrast Logo Print Full Sleeve T-Shirt",
     category: "men",
     image: p21_img,
     new_price: 888,
@@ -206,7 +206,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Men plain white Jacket",
     category: "men",
     image: p22_img,
     new_price: 555,
@@ -214,7 +214,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Men Navy blue jeans Jacket",
     category: "men",
     image: p23_img,
     new_price: 1300,
@@ -222,7 +222,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Men Black colored Jacket",
     category: "men",
     image: p24_img,
     new_price: 400,
@@ -230,7 +230,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys blue colored Hooded Sweatshirt",
     category: "kid",
     image: p25_img,
     new_price: 300,
@@ -238,7 +238,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Colour blacked Hooded Sweatshirt",
     category: "kid",
     image: p26_img,
     new_price: 600,
@@ -246,7 +246,7 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Tricolored Hoodie Sweatshirt",
     category: "kid",
     image: p27_img,
     new_price: 1100,
@@ -254,7 +254,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Greenish rhino designed Sweatshirt",
     category: "kid",
     image: p28_img,
     new_price: 2000,
@@ -262,7 +262,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Trampoline Colourblock Zip-Front Hooded Jacket",
     category: "kid",
     image: p29_img,
     new_price: 500,
@@ -270,7 +270,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Addidas Brand Print T-Shirt & Joggers Set",
     category: "kid",
     image: p30_img,
     new_price: 800,
@@ -278,7 +278,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Girls Embroidered Dungaree with Top",
     category: "kid",
     image: p31_img,
     new_price: 399,
@@ -286,7 +286,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Regular Fit Striped Shorts with Top",
     category: "kid",
     image: p32_img,
     new_price: 799,
@@ -294,7 +294,7 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Navy Blue T-shirt",
     category: "kid",
     image: p33_img,
     new_price:1199,
@@ -302,7 +302,7 @@ let all_product = [
   },
   {
     id: 34,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys zipped Hooded Sweatshirt",
     category: "kid",
     image: p34_img,
     new_price: 299,
@@ -318,7 +318,7 @@ let all_product = [
   },
   {
     id: 36,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Colourblocked Hooded Sweatshirt",
     category: "kid",
     image: p36_img,
     new_price: 259,
