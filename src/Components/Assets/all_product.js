@@ -190,7 +190,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: " SuperDry Gymtech Regular Fit Shorts",
     category: "men",
     image: p20_img,
     new_price: 1100,
